@@ -6,7 +6,7 @@ def fizzbuzz(n)
     elsif n % 5 == 0
       puts 'buzz'
     else
-      puts i
+      puts n
     end
   end
 end
