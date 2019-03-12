@@ -9,4 +9,3 @@ def fizzbuzz(n)
       puts n
     end
   end
-end
